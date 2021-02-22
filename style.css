@@ -1,0 +1,97 @@
+.part1{
+    display: flex;
+    margin-bottom: -19px;
+}
+
+.separation{
+    border: 2px solid white;
+    font-size: 18pt;
+    display: block;
+    padding: 3px;
+    margin-bottom: 5px;
+}
+
+#bild1{
+    height: -moz-fit-content;
+    width: 300px;
+    margin-right: 5px;
+    padding: 6px;
+    border: 2px dashed white;
+}
+
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: -moz-fit-content;
+    width: fit-content;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+#ytplayer{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    display: inline-block;
+    padding: 6px;
+    border: 2px solid white;
+}
+
+html{
+    background-image: url("bild2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
+.backgroundLike{
+    background-color: black;
+}
+
+table, tr, td{
+    border: 2px solid white;
+    border-collapse: collapse;
+
+}
+td{
+    padding-right: 15px;
+    font-size: 15pt;
+    text-align: center;
+}
+
+table{
+    width: 482px;
+    height: 619px;
+}
+
+nav{
+    border: 2px solid rgb(93, 93, 93);
+    padding: 0px;
+    margin-top: 3px;
+    margin-bottom: 4px;
+    margin-right: 5px;
+}
+
+#Inhaltsverzeichnis{
+    margin-left: 25px;
+    margin-top: 4px;
+}
+
+#Vorkommen{
+    margin-top: 15px;
+}
+
+#description{
+    margin-top: -16px;
+}
+
+dd, dt{
+    background-color: rgb(0, 0, 0, 0.6);
+}
+
+dt{
+    width: -moz-fit-content;
+    width: fit-content;
+}
